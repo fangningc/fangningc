@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fang
-- 👀 I’m interested in table tennis
-- 🌱 I’m currently learning product management and web3
+- 🌱 I’m currently developing, product managing and web3ing
 - 💞️ I’m looking to collaborate on sports project in web3
 - 📫 How to reach me twitter @whatdefang
 
